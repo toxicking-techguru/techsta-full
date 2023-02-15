@@ -1,0 +1,65 @@
+{
+    "record1": {
+      "name": "techstanet",
+      "image": "product-images/bike-1.jpeg",
+      "bounty": "206$",
+      "link": "profile.php",
+      "age": "23/1/2023"
+
+    },
+    "record2": {
+      "name": "somasasa.co.ke",
+      "age": 25,
+      "link": "somasasa.co.ke",
+      "bounty": "20$ - 508$"
+    }
+    ,
+    "record3": {
+      "name": " machakos",
+      "age": 25,
+      "link": "safaricom.cpm",
+      "bounty": "20$ - 508$"
+    }
+    ,
+    "record4": {
+      "name": "safaricom",
+      "age": 25,
+      "link": "safaricom.com",
+      "bounty": "20$ - 508$"
+    }
+    ,
+    "record52": {
+      "name": "example,com",
+      "age": 25,
+      "link": "https://www.another-example.com",
+      "bounty": "20$ - 508$"
+    }
+    ,
+    "record5": {
+      "name": "shield",
+      "age": 25,
+      "link": "shield.com",
+      "bounty": "20$ - 508$"
+    }
+    ,
+    "record7": {
+      "name": "example4",
+      "age": 25,
+      "link": "https://www.another-example.com",
+      "bounty": "20$ - 508$"
+    }
+    ,
+    "record8": {
+      "name": "example5",
+      "age": 25,
+      "link": "https://www.another-example.com",
+      "bounty": "20$ - 508$"
+    }
+    ,
+    "record9": {
+      "name": "examle6",
+      "age": 25,
+      "link": "https://www.another-example.com",
+      "bounty": "20$ - 508$"
+    }
+  }
